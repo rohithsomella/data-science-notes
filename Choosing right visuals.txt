@@ -1,0 +1,33 @@
+continuous
+
+1D --> Histogram
+2D---> Density plot
+3D --> bubble chart
+density numerical --> scatter 3D
+
+Catogorical:
+2D ---> Bar, Pie--> for <= 5 categories
+ 2D -- repeted values in multi category in same dimention ---> stacked bar
+Ex: Gender for each points
+3D ---> pair wise scatter plot
+3D --> kernal density plot
+multi dimentional ---> FacetGrid
+
+Correlation of columns --> Heatmap
+
+
+
+Identifing the values where actually spread more from total
+Ex: 1-3 is less 3-6 is more 6-8 medium and 8-10 less (density spread)
+---> scatter, violin
+density numerical --> scatter 3D
+
+
+
+to check Quality points (outliers)
+1D ----> box plot
+
+Location ---> Map
+
+
+
